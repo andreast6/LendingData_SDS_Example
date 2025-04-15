@@ -5,6 +5,16 @@
 The goal is to generate high-quality synthetic lending data that mirrors real-world patterns while ensuring privacy and utility for training machine learning models. This guide uses Synthetic Data Studio (SDS) Free Form API, assumes SDS is installed, and runs in a session.   
 The guide involves five sections: providing examples, synthesizing data, evaluating quality, filtering invalid entries and converting to tabular data, and saving data. 
 
+**Section 1: Inspect Lending club data**
+
+*Description:*  
+
+This step loads the existing Lending Data for inspection.
+
+*Setup*
+The lending data file is specified at OutputFile.
+
+
 **Section 2a: Example Data**  
 
 *Description:*  
@@ -22,11 +32,6 @@ The example data (e.g., \`ExamplesLoanData.json\`) serves as a template for synt
 
 An example file is shown in ExamplesLoanData.json
 
-**Section 1: Inspect Lending club data**
-
-*Description:*  
-
-This step loads the existing Lending Data for inspection.
 
 *Setup*
 The lending data file is specified at OutputFile.
