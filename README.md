@@ -40,7 +40,7 @@ The lending data file is specified at OutputFile.
 
 *Description:*  
 
-The step uses Synthetic Data Studio’s freeform API to generate synthetic data based on the examples and a custom prompt. The LLM (e.g., Claude-3-5) creates new records by inferring patterns from the examples and adhering to field descriptions. Here, we can set different parameters such as temperature, Max tokens, Top K, and different seed instructions to generate diverse lending data samples.
+The step uses Synthetic Data Studio’s freeform API to generate synthetic data based on the examples and a custom prompt. The LLM creates new records by inferring patterns from the examples and adhering to field descriptions. Here, we can set different parameters such as temperature, Max tokens, Top K, and different seed instructions to generate diverse lending data samples.
 
 *Key Insights:*  
 
@@ -78,7 +78,7 @@ An example file is shown in ExamplesLoanData.json
 
 *Description:*
 
-The evaluation step uses another LLM (e.g., Claude-3-7) to score generated rows (1–5) based on realism and internal consistency. The LLM checks dependencies (e.g., interest rates matching the `issue_d` period and borrower risk profile), whether the outputs make sense, and gives a final score and justification which can be used to filter bad data.
+The evaluation step uses another LLM to score generated rows (1–5) based on realism and internal consistency. The LLM checks dependencies (e.g., interest rates matching the `issue_d` period and borrower risk profile), whether the outputs make sense, and gives a final score and justification which can be used to filter bad data.
 
 *Key Insights:*
 
