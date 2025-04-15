@@ -12,7 +12,7 @@ The guide involves five sections: providing examples, synthesizing data, evaluat
 This step loads the existing Lending Data for inspection.
 
 *Setup*
-The lending data file is specified at OutputFile.
+- The lending data file is specified at OutputFile.
 
 
 **Section 2a: Example Data**  
