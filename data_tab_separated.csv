@@ -1,0 +1,346 @@
+	loan_amnt	term	int_rate	installment	grade	sub_grade	emp_title	emp_length	home_ownership	annual_inc	verification_status	issue_d	loan_status	purpose	title	dti	earliest_cr_line	open_acc	pub_rec	revol_bal	revol_util	total_acc	initial_list_status	application_type	mort_acc	pub_rec_bankruptcies	address
+0	32000.0	60 months	13.99	675.42	B	B2	Senior Accountant	6 years	RENT	82000.0	Not Verified	Jun-2016	Fully Paid	debt_consolidation	Debt Consolidation	20.54	Apr-2001	14.0	0.0	14356.0	42.1	23.0	w	INDIVIDUAL	0.0	0.0	"666 Jennifer Way
+Carlosville, AL 76543"
+1	25000.0	60 months	15.49	562.44	C	C5	Electrician	8 years	MORTGAGE	75000.0	Not Verified	Jan-2018	Fully Paid	credit_card	Credit Card Debt Consolidation	24.48	Aug-2002	16.0	0.0	30975.0	61.2	37.0	f	INDIVIDUAL	2.0	0.0	"5314 Oakwood Street
+Rennerberg, CA 90291"
+2	14250.0	36 months	10.94	452.07	B	B5	Physical Therapist	3 years	MORTGAGE	64000.0	Verified	Nov-2015	Fully Paid	credit_card	Credit Card Refinancing	11.09	Oct-2003	15.0	0.0	9218.0	50.4	28.0	f	INDIVIDUAL	1.0	0.0	"253 Grant Street
+Fowlerville, MI 49221"
+3	10000.0	36 months	12.46	319.49	C	C3	Business Analyst	7 years	RENT	56000.0	Source Verified	Aug-2014	Fully Paid	small_business	New Business	17.25	Feb-1995	12.0	0.0	17488.0	46.2	24.0	w	INDIVIDUAL	0.0	0.0	"8701 Jennifer Plaza
+Dennisside, NC 45828"
+4	14250.0	60 months	13.49	274.78	D	D3	Clinical Research Coordinator	5 years	RENT	60000.0	Not Verified	May-2016	Fully Paid	debt_consolidation	Debt Consolidation	20.13	Nov-2006	14.0	0.0	16750.0	30.5	32.0	f	JOINT	0.0	0.0	"7228 Crane Hwy Apt. 585
+North Jason, MT 23025"
+5	39000.0	60 months	16.23	819.33	D	D4	Database Administrator	10+ years	RENT	93000.0	Verified	Oct-2017	Fully Paid	debt_consolidation	Debt Consolidation	23.41	May-1996	19.0	0.0	41742.0	55.6	41.0	w	INDIVIDUAL	0.0	0.0	"1434 Terry Crossing
+Duaneberg, ID 04783"
+6	9342.0	36 months	16.13	314.28	E	E2	Pharmacy Technician	3 years	RENT	44954.0	Verified	Jul-2015	Fully Paid	credit_card	Credit Card Payoff	31.74	Apr-2005	15.0	0.0	21983.0	57.2	30.0	w	INDIVIDUAL	1.0	0.0	"618 Christensen Plaza Apt. 944
+North Justin, NJ 31735"
+7	13500.0	60 months	14.89	256.21	C	C2	Mechanical Engineer	6 years	MORTGAGE	112500.0	Source Verified	Mar-2016	Fully Paid	debt_consolidation	Credit Card Consolidation	15.13	May-2007	18.0	0.0	14762.0	37.2	36.0	f	INDIVIDUAL	2.0	0.0	"584 Peters Fords Apt. 319
+East Susan, NM 43383"
+8	10200.0	60 months	11.42	188.74	B	B2	Operations Manager	8 years	RENT	95000.0	Verified	Aug-2014	Fully Paid	vacation	Family Vacation	17.24	Oct-2001	19.0	0.0	19375.0	49.6	34.0	f	INDIVIDUAL	1.0	0.0	"61281 Price Via Apt. 341
+Stevensmouth, NE 18849"
+9	16500.0	36 months	15.75	537.62	D	D1	Supply Chain Manager	10+ years	MORTGAGE	130000.0	Not Verified	Feb-2017	Fully Paid	credit_card	Credit Card Consolidation	26.18	Jul-2005	16.0	0.0	28639.0	62.3	41.0	w	INDIVIDUAL	2.0	0.0	"9233 Jeffrey Villas Apt. 621
+North Amanda, LA 42256"
+10	16000.0	60 months	15.97	307.64	F	F4	Assistant Manager	10+ years	MORTGAGE	98000.0	Source Verified	Aug-2014	Fully Paid	home_improvement	Home Improvement	24.57	Jun-1997	15.0	0.0	18000.0	74.2	30.0	f	INDIVIDUAL	3.0	0.0	72321 Stewart Summit
+11	18750.0	60 months	13.49	361.23	D	D3	Purchasing Manager	5 years	OWN	72000.0	Not Verified	May-2016	Current	debt_consolidation	Debt Consolidation	20.34	Oct-2002	10.0	0.0	13493.0	85.1	22.0	f	INDIVIDUAL	2.0	0.0	283 Briarcliff Circle
+12	22000.0	36 months	12.99	713.93	C	C2	Nurse Practitioner	7 years	RENT	88000.0	Not Verified	Feb-2013	Fully Paid	auto	Car Financing	27.35	Sep-2003	9.0	0.0	9400.0	61.5	21.0	w	INDIVIDUAL	0.0	0.0	975 Flushing Avenue
+13	17500.0	36 months	14.99	574.79	D	D1	Sales Manager	3 years	MORTGAGE	68000.0	Not Verified	May-2017	Fully Paid	credit_card	Credit Card Refinance	22.67	Apr-1999	11.0	0.0	15250.0	88.2	26.0	f	INDIVIDUAL	2.0	0.0	82573 Sebastian Green
+14	20000.0	60 months	13.99	392.71	E	E2	Teacher	4 years	RENT	38000.0	Verified	Jun-2015	Current	debt_consolidation	Debt Consolidation	19.34	Dec-2005	12.0	0.0	14300.0	93.5	28.0	w	INDIVIDUAL	0.0	0.0	4581 Ferdinand Street
+15	12800.0	36 months	9.99	387.43	B	B2	Network Engineer	5 years	RENT	98000.0	Source Verified	Aug-2015	Current	debt_consolidation	Debt Consolidation Loan	18.55	Jan-2003	10.0	0.0	21511.0	50.3	22.0	f	INDIVIDUAL	0.0	0.0	"345 Sparta Crossing Apt. 235
+Havenside, SC 21465"
+16	18125.0	60 months	12.49	384.55	C	C3	Sales Manager	7 years	MORTGAGE	92000.0	Not Verified	Sep-2014	Current	credit_card	Credit Card Consolidation	22.05	Jun-2002	15.0	0.0	34210.0	43.2	35.0	w	INDIVIDUAL	2.0	0.0	"170 Oak Ridge Rd Apt. 115
+Lake Mattie, CO 28491"
+17	15500.0	36 months	10.99	462.35	B	B3	Graphic Designer	6 years	RENT	90000.0	Not Verified	Jul-2015	Current	credit_card	Credit Card Payoff	24.23	May-2009	14.0	0.0	24256.0	45.3	32.0	f	INDIVIDUAL	0.0	0.0	"555 West Craig Dr Apt. 176
+North Lisaburgh, AL 34100"
+18	10800.0	36 months	11.29	324.31	B	B4	Database Administrator	2 years	RENT	79000.0	Source Verified	Oct-2014	Fully Paid	car	Car Loan	27.41	Sep-2005	8.0	0.0	16839.0	39.5	20.0	f	INDIVIDUAL	0.0	0.0	"808 Stratford Plaza Apt. 355
+South Ryanport, ND 28045"
+19	25000.0	60 months	16.45	485.58	C	C5	Software Engineer	4 years	MORTGAGE	105000.0	Verified	Dec-2013	Current	personal	Personal Loan	25.38	Mar-2001	11.0	0.0	38360.0	55.4	28.0	f	INDIVIDUAL	1.0	0.0	"427 Anita Groves Apt. 358
+East Robertville, TX 28353"
+20	10800.0	36 months	12.26	335.68	C	C1	Data Scientist	3 years	MORTGAGE	85000.0	Verified	Dec-2014	Fully Paid	credit_card	Credit Card Consolidation	19.42	Feb-2010	15.0	0.0	26991.0	54.9	23.0	f	INDIVIDUAL	3.0	0.0	"504 Taylor Dale Apt. 178
+North Amanda, SD 82341"
+21	24000.0	60 months	13.65	483.41	C	C3	Marketing Manager	10+ years	RENT	120000.0	Not Verified	Aug-2013	Fully Paid	other	Family Vacation	25.16	Oct-2009	14.0	0.0	34485.0	73.5	33.0	w	JOINT	0.0	0.0	"8499 David Flat Suite 480
+Lakeshore, OR 35770"
+22	18000.0	36 months	11.54	553.51	B	B1	HR Manager	5 years	OWN	90000.0	Source Verified	Jul-2012	Fully Paid	credit_card	Credit Card Payoff	16.63	Aug-2007	11.0	0.0	42182.0	58.3	28.0	f	INDIVIDUAL	2.0	0.0	"7160 Brown Locks Apt. 160
+South Jessica, TX 75341"
+23	21600.0	60 months	16.49	431.85	D	D2	Head of Marketing	6 years	OWN	102000.0	Source Verified	Oct-2014	In Grace Period	debt_consolidation	Credit Card Payoff	24.98	Apr-2000	19.0	0.0	29618.0	69.2	29.0	f	JOINT	2.0	0.0	"88 Angela Spring Suite 312
+East Michael, ND 58651"
+24	22800.0	60 months	14.82	454.21	C	C2	Engineer	4 years	MORTGAGE	70000.0	Not Verified	Mar-2014	In Grace Period	other	Car Loan	26.67	May-2011	13.0	0.0	48264.0	65.4	25.0	f	INDIVIDUAL	1.0	0.0	"5848 Michael Cove Suite 150
+Riverview, NC 27558"
+25	12300.0	60 months	18.49	285.95	E	E4	Store Manager	4 years	RENT	49000.0	Not Verified	Feb-2016	Charged Off	credit_card	Credit Card Refinancing	29.55	May-2008	11.0	0.0	10177.0	95.3	22.0	w	INDIVIDUAL	0.0	0.0	29617 4th Street Apt. 112
+26	33500.0	36 months	10.69	982.05	C	C3	Design Engineer	8 years	MORTGAGE	98000.0	Verified	Jun-2019	Fully Paid	home_improvement	Home Improvement Loan	21.59	Nov-1999	12.0	0.0	38352.0	64.5	28.0	f	INDIVIDUAL	2.0	0.0	599 Magdalena Streets Apt. 292
+27	14700.0	60 months	16.49	391.17	D	D2	Procurement Manager	5 years	RENT	82000.0	Not Verified	Aug-2017	Current	debt_consolidation	Debt Consolidation Loan	24.97	Oct-2006	14.0	0.0	26285.0	80.1	24.0	f	JOINT	0.0	0.0	48 Jean Boulevard Apt. 810
+28	17750.0	36 months	12.24	551.83	B	B2	Clinical Manager	6 years	MORTGAGE	59000.0	Source Verified	Oct-2015	Fully Paid	debt_consolidation	Debt Consolidation	22.61	Apr-2003	16.0	0.0	29355.0	58.2	29.0	w	INDIVIDUAL	1.0	0.0	serrat boulevard apt 107b 
+29	29100.0	60 months	12.34	575.42	B	B1	Data Analyst	3 years	RENT	95000.0	Verified	Apr-2018	Current	credit_card	Credit Card Consolidation	14.85	Jul-2006	17.0	0.0	19632.0	70.2	31.0	f	JOINT	0.0	0.0	Roy st-mail box 12c 
+30	24500.0	60 months	13.49	455.81	D	D4	Scientist	6 years	RENT	58000.0	Verified	Mar-2017	Fully Paid	debt_consolidation	Debt Consolidation	23.14	May-2002	19.0	0.0	34213.0	76.6	29.0	f	JOINT	2.0	0.0	"31590 Frieda Expressway Apt. 285
+Lake Brittany, WI 53722"
+31	33300.0	36 months	11.21	986.56	A	A3	Physician	10+ years	MORTGAGE	185000.0	Verified	Jan-2019	Fully Paid	car	Car Financing	12.56	Apr-1987	20.0	0.0	17985.0	21.9	34.0	f	INDIVIDUAL	5.0	0.0	"592 Sandra Cape Apt. 544
+New Angela, TX 78392"
+32	12600.0	36 months	13.27	384.44	D	D5	Teacher	9 years	RENT	84000.0	Not Verified	Jun-2016	Charged Off	small_business	New Business	26.51	Jan-1990	18.0	0.0	22241.0	58.2	32.0	w	JOINT	3.0	0.0	"77294 Lisa Alley
+South Rachelville, AR 77368"
+33	24000.0	60 months	15.82	552.84	E	E4	Real Estate Developer	7 years	MORTGAGE	75000.0	Verified	Aug-2014	Charged Off	home_improvement	Home Improvement	25.95	Aug-1997	15.0	0.0	20779.0	63.1	27.0	f	INDIVIDUAL	2.0	0.0	"7802 Tina Branch Apt. 738
+Bakerstown, PA 15313"
+34	13800.0	60 months	13.49	344.82	D	D4	Supervisor	6 years	RENT	92000.0	Verified	Mar-2017	Fully Paid	debt_consolidation	Debt Consolidation	23.14	Feb-2001	18.0	0.0	28456.0	64.6	36.0	w	JOINT	2.0	0.0	85445 Blue Jay Common Apt. 827\nEast Jonathan, FL 11732
+35	22500.0	36 months	10.55	714.11	C	C4	Counselor	6 years	RENT	98000.0	Not Verified	Nov-2018	Fully Paid	credit_card	Credit Card Refinancing	18.75	Jul-2009	19.0	0.0	15197.0	45.3	28.0	w	JOINT	1.0	0.0	"89930 Michael Lights Apt. 674
+West April, KS 67207"
+36	24000.0	60 months	16.79	601.69	D	D1	Sales	3 years	RENT	88000.0	Verified	Jun-2013	Fully Paid	debt_consolidation	Credit Card Consolidation	35.31	Nov-1995	17.0	0.0	22439.0	83.3	39.0	f	INDIVIDUAL	3.0	0.0	27661 Clifford Mountains Apt. 217\nNorth Michaelshire, NY 13795
+37	8250.0	36 months	15.99	237.69	E	E2	Safety Inspector	10+ years	MORTGAGE	61000.0	Not Verified	Apr-2018	Fully Paid	car	Car Financing	17.35	Nov-1987	15.0	0.0	26913.0	74.9	32.0	w	INDIVIDUAL	0.0	0.0	12612 Sonja Road Apt. 493\nLauratown, TX 23544
+38	10000.0	36 months	11.59	298.99	C	C1	Engineer	9 years	MORTGAGE	84000.0	Not Verified	Aug-2015	Fully Paid	debt_consolidation	Credit Card Consolidation	14.69	Jan-2008	15.0	0.0	21720.0	56.9	29.0	f	INDIVIDUAL	2.0	0.0	94080 John Place Apt. 221\nRichardview, GA 26196
+39	18000.0	60 months	12.99	384.36	B	B2	Manager	6 years	RENT	100000.0	Verified	Feb-2019	Fully Paid	personal	Personal Loan	26.34	Nov-2001	19.0	0.0	31547.0	68.4	38.0	w	INDIVIDUAL	1.0	0.0	19443 Gary Freeway Apt. 912\nChristopherfurt, MI 90262
+40	12200.0	36 months	9.99	385.22	B	B2	Civil Engineer	5 years	RENT	68000.0	Source Verified	Aug-2014	Fully Paid	car	Car Financing	20.35	Jun-2001	14.0	0.0	14638.0	62.1	24.0	f	INDIVIDUAL	0.0	0.0	"743 Emily Ports Apt. 986
+Harrisonland, ME 12080"
+41	18600.0	60 months	12.99	386.57	C	C1	Dentist	10+ years	MORTGAGE	118000.0	Verified	Dec-2010	Fully Paid	home_improvement	Home Improvement Loan	24.19	Jan-2002	19.0	0.0	50469.0	75.3	32.0	f	INDIVIDUAL	1.0	0.0	"173 Dawsontown Apt. 421
+Jasonside, OH 09436"
+42	7800.0	36 months	10.99	242.71	B	B1	Nurse Practitioner	6 years	RENT	87000.0	Not Verified	Feb-2012	Fully Paid	other	Other	16.85	Dec-1997	15.0	0.0	10230.0	49.5	23.0	w	INDIVIDUAL	0.0	0.0	"302 Johns Drive Apt. 995
+Macdougalltown, GA 24843"
+43	17400.0	60 months	14.99	369.15	D	D2	Sales Representative	8 years	MORTGAGE	66000.0	Source Verified	Jul-2011	Fully Paid	credit_card	Credit Card Refinance	29.42	Mar-2000	12.0	0.0	18349.0	88.3	29.0	f	INDIVIDUAL	1.0	0.0	"3089 Edward Drives Apt. 475
+Colinbury, VT 26674"
+44	13750.0	60 months	13.49	375.92	D	D4	Machine Operator	5 years	RENT	51200.0	Verified	Mar-2017	Fully Paid	debt_consolidation	Debt Consolidation	23.45	Feb-2001	15.0	0.0	18435.0	67.6	34.0	w	JOINT	2.0	0.0	"65542 Leonardo Gateway Suite 756
+Krystalmart, OH 31444"
+45	24000.0	36 months	11.99	775.49	C	C3	Engineer	4 years	RENT	83000.0	Not Verified	Oct-2012	Fully Paid	debt_consolidation	Debt Consolidation Loan	25.49	Jul-1996	18.0	0.0	30191.0	81.2	31.0	w	INDIVIDUAL	0.0	0.0	"904 Daniel Drive Apt. 401
+Jamesmouth, IN 12031"
+46	22500.0	60 months	15.68	532.18	E	E4	Data Entry Clerk	2 years	MORTGAGE	80500.0	Source Verified	Mar-2015	Default	credit_card	Credit Card Debt Consolidation	29.74	Mar-2006	11.0	0.0	14854.0	85.9	29.0	f	INDIVIDUAL	4.0	0.0	"2764 Matthew Crossing Apt. 394
+Port Myra, NM 02469"
+47	11000.0	36 months	10.74	348.14	B	B2	Financial Analyst	6 years	RENT	121000.0	Not Verified	Nov-2016	Fully Paid	major_purchase	Business Expansion	17.77	Nov-2013	12.0	0.0	10578.0	42.1	23.0	w	INDIVIDUAL	1.0	0.0	"5251 Tatiana Coves Apt. 234
+New Wyattton, IN 02564"
+48	15500.0	36 months	11.22	462.47	B	B1	Graphic Designer	3 years	RENT	64000.0	Not Verified	Aug-2017	Fully Paid	credit_card	Credit Card Consolidation	21.41	Sep-2015	10.0	0.0	16762.0	63.6	22.0	w	INDIVIDUAL	1.0	0.0	"3951 Alberto Inlet Apt. 716
+Graysontown, VT 26704"
+49	7350.0	36 months	9.99	241.42	B	B2	Dental Hygienist	6 years	RENT	88000.0	Source Verified	Mar-2018	Fully Paid	debt_consolidation	Consolidate Credit Card Debt	20.01	Jan-2006	19.0	0.0	14348.0	59.4	34.0	f	INDIVIDUAL	0.0	0.0	"522 Martinez Place
+Westfield, NJ 07444"
+50	18000.0	60 months	12.51	430.57	C	C2	Software Engineer	7 years	MORTGAGE	94000.0	Verified	May-2014	Fully Paid	personal_loan	Personal Loan	25.58	Jan-2002	14.0	0.0	22119.0	72.4	35.0	f	JOINT	3.0	0.0	"10759 Ronnie Station Apt. 302
+East Hannah, NY 31567"
+51	10750.0	60 months	14.44	244.95	C	C3	Executive Director	5 years	MORTGAGE	84000.0	Verified	Oct-2014	Fully Paid	small_business	Furniture for Business	19.09	Apr-2003	24.0	0.0	33775.0	56.7	47.0	f	INDIVIDUAL	4.0	0.0	"4448 Waters Street Apt 17
+East Emily, CO 81320"
+52	18000.0	36 months	12.74	539.22	B	B1	Sales Manager	7 years	RENT	85000.0	Not Verified	Mar-2017	Fully Paid	wedding	Destination Wedding	23.09	Apr-2006	15.0	0.0	23219.0	51.5	32.0	w	INDIVIDUAL	0.0	0.0	"7666 Green Ln
+Raynorton, CA 94585"
+53	14000.0	60 months	15.99	300.74	C	C4	Vice President	8 years	MORTGAGE	42000.0	Verified	Nov-2013	Fully Paid	consolidate_debt	Consolidating Credit Card Debt	28.09	Aug-2004	21.0	0.0	19588.0	62.7	41.0	f	INDIVIDUAL	3.0	0.0	"61038 Lincoln Court
+Kelseytown, GA 30117"
+54	25000.0	36 months	10.99	744.19	A	A2	Pharmacist	10+ years	OWN	160000.0	Source Verified	Mar-2016	Fully Paid	car_replacement	Car Replacement	12.94	Jan-1993	26.0	0.0	37826.0	43.1	51.0	f	INDIVIDUAL	5.0	0.0	"31369 Mitchell Hollow
+Efreiburg, AL 35661"
+55	11250.0	36 months	9.99	359.55	B	B2	Quality Control Specialist	5 years	RENT	82000.0	Not Verified	May-2017	Fully Paid	debt_consolidation	Consolidating Credit Card Debt	25.45	Oct-2001	18.0	0.0	23564.0	75.1	30.0	w	INDIVIDUAL	0.0	0.0	"19650 Carey Grove Apt. 348
+Porterborough, AL 35056"
+56	18500.0	60 months	14.77	401.25	C	C3	Customer Service Representative	3 years	MORTGAGE	72000.0	Source Verified	Aug-2016	Fully Paid	credit_card	Credit Card Consolidation	20.56	Jan-2006	22.0	0.0	13338.0	56.9	37.0	f	INDIVIDUAL	2.0	0.0	"3570 Jeffrey Drive
+Lake Catherine, LA 70664"
+57	13250.0	36 months	10.98	432.79	B	B4	Operations Manager	10+ years	RENT	123000.0	Verified	Oct-2018	Fully Paid	credit_card	Credit Card Debt Consolidation	18.21	May-1999	20.0	0.0	18481.0	62.8	35.0	w	INDIVIDUAL	0.0	0.0	"41025 Michaels Branch Apt. 179
+Yorkshire, DE 19735"
+58	14875.0	36 months	12.45	494.52	B	B5	Software Engineer	4 years	RENT	93000.0	Source Verified	Mar-2019	Fully Paid	credit_card	Credit Card Payoff	19.24	Jun-2003	16.0	0.0	21904.0	59.3	29.0	w	INDIVIDUAL	0.0	0.0	"16960 Miranda Court Apt. 436
+Parka, AR 72043"
+59	20500.0	60 months	13.29	447.42	C	C2	Business Development Manager	6 years	MORTGAGE	85000.0	Not Verified	Nov-2015	Fully Paid	debt_consolidation	Debt Consolidation Loan	24.69	Dec-2002	19.0	0.0	27870.0	70.1	33.0	f	INDIVIDUAL	3.0	0.0	"1072 Timothy Hills Apt. 794
+Chartresburgh, PA 17071"
+60	31500.0	60 months	13.49	677.59	D	D2	System Administrator	5 years	RENT	96000.0	Verified	Mar-2016	Fully Paid	debt_consolidation	Debt Consolidation	28.45	Jan-2005	14.0	0.0	30441.0	74.6	34.0	w	JOINT	0.0	0.0	"76250 Moen Bridge Apt. 780
+Port Alexandriaview, CO 82398"
+61	17500.0	36 months	15.11	551.19	E	E4	Laborer	10+ years	RENT	50000.0	Source Verified	Jun-2014	Charged Off	credit_card	Credit Card Consolidation	29.61	Apr-2001	10.0	1.0	17422.0	102.9	25.0	f	INDIVIDUAL	0.0	1.0	"21700 Gibson Extensions Apt. 409
+East Braxton, NE 25667"
+62	21000.0	60 months	18.23	530.89	F	F5	Mail Clerk	< 1 year	RENT	37000.0	Not Verified	Aug-2015	Default	other	Personal Loan	21.35	Jun-2002	11.0	0.0	12490.0	63.4	22.0	f	INDIVIDUAL	0.0	0.0	"18368 Sullivan Pointe
+Brewerton, OR 95232"
+63	14500.0	36 months	9.58	455.76	C	C4	Manager	2 years	MORTGAGE	115000.0	Verified	Oct-2012	Fully Paid	home_improvement	Home Improvement	18.22	May-2006	15.0	0.0	35819.0	89.5	32.0	w	JOINT	2.0	0.0	"23272 Phyllis Gateway Apt. 531
+Port Hermanstad, NM 69248"
+64	28000.0	60 months	12.85	585.82	B	B2	Chef	6 years	RENT	63000.0	Source Verified	Dec-2011	Fully Paid	car	Car Loan	24.36	Nov-2003	16.0	0.0	30816.0	85.4	29.0	f	INDIVIDUAL	0.0	0.0	"58471 Johnson Station Apt. 493
+Woodland, VT 59883"
+65	5000.0	36 months	10.94	164.49	B	B2	Receptionist	7 years	MORTGAGE	51000.0	Not Verified	Mar-2016	Fully Paid	credit_card	Credit Card Consolidation	28.25	Oct-2003	10.0	0.0	15026.0	78.1	25.0	f	INDIVIDUAL	2.0	0.0	65741 Cory Pass Apt. 144\nPort Christian, SC 05926
+66	20800.0	60 months	16.49	494.38	C	C3	Database Administrator	5 years	RENT	87000.0	Source Verified	Nov-2014	Current	debt_consolidation	Debt Consolidation	23.14	Jan-2005	12.0	0.0	28456.0	73.8	33.0	w	JOINT	0.0	0.0	63522 Vanessa Land Apt. 686\nEast Roderick, NM 19769
+67	14500.0	36 months	13.64	442.31	D	D4	Laboratory Assistant	< 1 year	RENT	37000.0	Verified	Aug-2012	Charged Off	other	Furniture for Business	35.56	May-1996	15.0	0.0	21925.0	96.7	38.0	f	INDIVIDUAL	0.0	0.0	17614 Noel Crossing Apt. 162\nGrahamstad, GA 08248
+68	16800.0	36 months	10.73	486.74	B	B4	Computer Systems Manager	9 years	OWN	90000.0	Verified	Jun-2013	Fully Paid	major_purchase	Family Vacation	19.56	Dec-2000	11.0	0.0	34292.0	56.1	28.0	w	INDIVIDUAL	2.0	0.0	51528 Hannah Heights Apt. 531\nSpencerberg, IL 67994
+69	35000.0	60 months	14.23	651.41	D	D2	Bank Manager	4 years	MORTGAGE	67000.0	Not Verified	Oct-2011	In Grace Period	credit_card	Debt Consolidation Loan	29.44	Jan-1999	14.0	0.0	31215.0	81.3	35.0	f	JOINT	1.0	0.0	26562 Gladys Street Apt. 301\nSouth Juliafurt, MT 93602
+70	20800.0	60 months	16.49	494.38	D	D3	Co-Founder	5 years	MORTGAGE	48000.0	Verified	Dec-2014	Fully Paid	credit_card	Credit Card Payoff	21.55	Feb-2005	19.0	0.0	34290.0	63.6	38.0	w	JOINT	2.0	0.0	92024 Uriel Shore Apt. 913\r\nLake Tom, FL 09240
+71	15750.0	36 months	9.99	455.58	B	B4	Project Manager	6 years	MORTGAGE	82000.0	Source Verified	Feb-2016	Fully Paid	other	Business Expansion	15.27	Sep-2005	15.0	0.0	27229.0	68.4	28.0	f	INDIVIDUAL	2.0	0.0	732 Lakewood Gardens Apt. 729\r\nSouth Jason, DE 82535
+72	10375.0	36 months	10.49	329.48	B	B2	Tax Preparer	2 years	RENT	83000.0	Not Verified	Oct-2015	Fully Paid	small_business	Credit Card Consolidation	29.91	Jan-2001	10.0	0.0	29086.0	91.7	33.0	w	INDIVIDUAL	1.0	0.0	79535 Rowan Isle Apt. 183\r\nLindgrenmouth, SC 00637
+73	32000.0	60 months	9.44	577.26	B	B1	Biotechnology Researcher	4 years	RENT	130000.0	Verified	Jun-2015	Fully Paid	car	New Car	25.62	Nov-2000	11.0	0.0	24115.0	48.3	36.0	f	INDIVIDUAL	3.0	0.0	396 Wilder Divide Apt. 652\r\nRyanbury, GA 10998
+74	14000.0	36 months	10.99	394.27	B	B5	Sales Manager	3 years	MORTGAGE	96000.0	Not Verified	Sep-2014	Fully Paid	wedding	Destination Wedding	18.21	Jan-2007	14.0	0.0	18442.0	61.9	31.0	w	INDIVIDUAL	1.0	0.0	40576 Karianne Village Apt. 166\r\nPort Courtneyfurt, AL 62521
+75	10325.0	36 months	9.67	292.57	B	B2	Food Service Manager	5 years	RENT	64000.0	Not Verified	Aug-2017	Fully Paid	debt_consolidation	Credit Card Payoff	20.95	Nov-2006	14.0	0.0	27395.0	86.4	20.0	f	INDIVIDUAL	0.0	0.0	"8524 Alexis Ville Apt. 347
+North David, ME 03162"
+76	24500.0	60 months	17.14	588.35	C	C4	Assistant Manager	3 years	MORTGAGE	110000.0	Verified	May-2014	Fully Paid	car	Auto Refinance	25.61	Jul-2003	19.0	0.0	30371.0	63.9	35.0	w	INDIVIDUAL	1.0	0.0	"5001 Amanda Burg Apt. 289
+Port Lauren, MT 58453"
+77	17500.0	36 months	12.51	490.82	C	C1	Sales	2 years	RENT	58000.0	Not Verified	Mar-2016	Fully Paid	credit_card	Credit Card Debt Consolidation	17.09	Feb-2010	11.0	0.0	24231.0	82.2	25.0	f	INDIVIDUAL	0.0	0.0	"429 Kelley Walks Apt. 943
+New Kevin, NY 06111"
+78	13250.0	36 months	13.93	372.74	C	C4	Attorney	< 1 year	RENT	98000.0	Source Verified	Nov-2015	Fully Paid	debt_consolidation	Credit Card Consolidation	24.48	Aug-2008	10.0	0.0	18521.0	89.3	21.0	w	INDIVIDUAL	0.0	0.0	"93085 Sabrina Estates Apt. 205
+East Stephen, WV 25397"
+79	31000.0	60 months	15.25	656.49	B	B5	Welder	5 years	MORTGAGE	103000.0	Verified	Apr-2015	Fully Paid	car	New Auto	20.95	Nov-1997	17.0	0.0	42311.0	56.2	40.0	f	INDIVIDUAL	1.0	0.0	"61692 Carlotta Garden Apt. 963
+O'Brien Ville, SD 48600"
+80	18900.0	60 months	16.27	386.17	D	D2	Architect	5 years	RENT	56000.0	Source Verified	Jul-2014	In Grace Period	debt_consolidation	Credit Card Payoff	24.01	May-2006	14.0	0.0	14110.0	95.4	36.0	w	JOINT	0.0	0.0	"3936 Neville Falls Apt. 285
+North Jamiemouth, VT 22981"
+81	7000.0	36 months	11.98	240.42	B	B2	Geologist	2 years	MORTGAGE	42000.0	Not Verified	Dec-2015	Current	home_improvement	Home Improvement	25.03	Nov-2002	18.0	0.0	9053.0	43.7	19.0	f	INDIVIDUAL	2.0	0.0	"25236 Jeffrey Tunnel Apt. 901
+Taylortown, IL 15268"
+82	12000.0	36 months	13.99	385.31	C	C4	Pediatrician	6 years	RENT	55000.0	Verified	Apr-2016	Late (31-120 days)	auto	Car Financing	18.69	Jun-2005	13.0	0.0	14421.0	39.9	30.0	w	INDIVIDUAL	0.0	0.0	"92752 Kevin Island Apt. 58
+Lake Christine, UT 74603"
+83	9000.0	60 months	17.46	230.44	D	D4	Banker	1 year	MORTGAGE	85000.0	Not Verified	Mar-2017	Fully Paid	debt_consolidation	Debt Consolidation	22.38	Aug-2008	12.0	0.0	18798.0	73.7	23.0	f	JOINT	1.0	0.0	"6705 Nathaniel Cove Apt. 470
+Westλλdonville, GA 43039"
+84	15000.0	36 months	12.49	458.26	B	B3	Programmer	8 years	RENT	63000.0	Source Verified	Jun-2015	In Grace Period	major_purchase	Furniture for Business	13.45	Dec-1998	19.0	0.0	22317.0	49.9	33.0	w	INDIVIDUAL	0.0	0.0	"62253 Donald Stream
+North Jenniferhaven, WI 69049"
+85	12450.0	36 months	9.67	378.55	B	B2	Real Estate Agent	6 years	RENT	72000.0	Not Verified	Jun-2017	Fully Paid	debt_consolidation	Consolidating Credit Card Debt	21.35	Jan-2002	12.0	0.0	15422.0	63.4	22.0	w	INDIVIDUAL	0.0	0.0	"13200 Aldrich Roads Apt. 549
+Lakealisha, PA 07027"
+86	10600.0	36 months	12.42	351.38	B	B4	Marketing Coordinator	3 years	RENT	50000.0	Source Verified	Apr-2018	Fully Paid	credit_card	Credit Card Consolidation	26.54	Jun-2006	10.0	0.0	15430.0	93.5	24.0	w	INDIVIDUAL	0.0	0.0	"3704 Bridget Greens
+Port Brady, OK 67228"
+87	24825.0	60 months	17.55	587.62	C	C5	Account Manager	5 years	MORTGAGE	84000.0	Verified	Oct-2014	Charged Off	credit_card	Credit Card Debt Consolidation	29.64	Aug-1993	14.0	0.0	36018.0	73.5	44.0	f	INDIVIDUAL	2.0	0.0	"623 Nathan Circles Suite 904
+North Dennis, GA 31628"
+88	10500.0	36 months	9.88	324.76	B	B3	Executive Director	10+ years	RENT	92000.0	Not Verified	Mar-2016	Fully Paid	other	Business Expansion	24.69	Apr-1996	11.0	0.0	20425.0	61.3	23.0	w	INDIVIDUAL	0.0	0.0	"72316 Robin Ridge Suite 315
+Imeldaville, CO 84528"
+89	7350.0	36 months	9.99	232.89	B	B2	Supply Chain Manager	5 years	RENT	78000.0	Not Verified	May-2017	Fully Paid	debt_consolidation	Consolidating Credit Card Debt	24.51	Oct-2005	19.0	0.0	31379.0	61.1	32.0	w	INDIVIDUAL	0.0	0.0	"88425 Ronnie Harbors Apt. 457
+Olsonville, UT 04097"
+90	16875.0	60 months	13.63	369.13	C	C3	Business Development Manager	2 years	MORTGAGE	115000.0	Not Verified	Jul-2014	Fully Paid	auto	Auto Refinance	26.39	Jan-2003	25.0	0.0	128676.0	82.3	38.0	w	INDIVIDUAL	2.0	0.0	"6301 Cassandra Streets Apt. 544
+New Brianside, FL 04154"
+91	14000.0	36 months	10.84	411.45	B	B4	Research Scientist	10+ years	OWN	85000.0	Not Verified	Mar-2018	Fully Paid	medical	Medical Bills	20.31	Dec-1995	10.0	0.0	16043.0	19.3	22.0	f	INDIVIDUAL	1.0	0.0	"93661 Russell Points Apt. 093
+Lake Jocelyn, NY 10023"
+92	11500.0	36 months	12.31	356.74	C	C2	Cook	< 1 year	RENT	67000.0	Not Verified	Oct-2016	Fully Paid	other	Family Vacation	21.21	Aug-2006	16.0	0.0	24159.0	75.2	27.0	f	INDIVIDUAL	1.0	0.0	"52306 Michael Streets Apt. 691
+Port Jacobtown, ME 74316"
+93	29250.0	60 months	15.35	632.25	C	C5	Electrical Engineer	8 years	MORTGAGE	120000.0	Not Verified	Sep-2012	Fully Paid	auto	New Car	28.88	Jun-1993	21.0	0.0	19468.0	47.3	35.0	f	INDIVIDUAL	2.0	0.0	"50354 Roger Parks Apt. 043
+Lake Carabo, GA 82505"
+94	32500.0	60 months	13.49	636.44	D	D4	Travel Agent	6 years	RENT	51000.0	Verified	Mar-2016	Fully Paid	debt_consolidation	Debt Consolidation	28.19	Feb-2005	10.0	0.0	18764.0	65.8	29.0	w	JOINT	0.0	0.0	"1206 Castaneda Falls Apt. 869
+North Shannon, MT 58846"
+95	47875.0	36 months	16.51	871.48	E	E4	Web Developer	3 years	MORTGAGE	61000.0	Not Verified	Jul-2017	Fully Paid	other	Other	32.23	Nov-2004	8.0	0.0	34005.0	71.1	23.0	f	INDIVIDUAL	1.0	0.0	"5129 Webster Ferry Apt. 676
+Lake Leslie, TX 32451"
+96	12000.0	36 months	15.65	373.39	F	F4	Sales Manager	10+ years	RENT	44000.0	Source Verified	Oct-2016	Fully Paid	car	Car Loan	26.81	Jun-2004	9.0	0.0	23185.0	63.4	31.0	w	JOINT	0.0	0.0	"1196 Emily Canyon
+West Jordan, IL 23967"
+97	17500.0	36 months	10.26	499.38	B	B1	Electrical Engineer	5 years	MORTGAGE	55000.0	Not Verified	Jan-2015	Fully Paid	credit_card	Credit Card Payoff	18.39	Mar-2005	12.0	0.0	19210.0	56.3	24.0	w	INDIVIDUAL	1.0	0.0	"980 Katelyn Extension Apt. 848
+Riverview, CO 80423"
+98	41375.0	60 months	17.19	799.17	E	E2	Fashion Designer	< 1 year	RENT	47000.0	Verified	May-2014	Fully Paid	small_business	New Business	35.76	Dec-2003	10.0	0.0	26743.0	74.9	32.0	w	JOINT	0.0	0.0	"3713 Carpenter Cove Apt. 167
+East Mario, OH 37462"
+99	13750.0	60 months	13.49	319.55	D	D4	UX Designer	5 years	RENT	79000.0	Source Verified	Nov-2014	Current	debt_consolidation	Debt Consolidation	23.11	Feb-2005	12.0	0.0	28432.0	65.8	23.0	f	JOINT	0.0	0.0	85502 Lambert Corners Apt. 808\nEast Emily, CA 39911
+100	6250.0	36 months	9.99	224.45	B	B2	Technical Writer	3 years	MORTGAGE	125000.0	Not Verified	Feb-2014	Fully Paid	major_purchase	New Auto	15.35	Jan-1987	19.0	0.0	7349.0	21.9	32.0	f	INDIVIDUAL	1.0	0.0	24406 Eddie Parks Apt. 138\nPort Thomas, DE 39593
+101	17000.0	36 months	14.29	544.24	C	C2	Health Educator	10+ years	RENT	83500.0	Verified	Apr-2015	Fully Paid	credit_card	Credit Card Payoff	28.05	Sep-1987	14.0	0.0	19176.0	51.1	28.0	f	INDIVIDUAL	0.0	0.0	6414 Basil Lakes Apt. 884\nPort Megan, MT 21847
+102	15500.0	60 months	16.79	359.39	D	D2	Marketing Assistant	8 years	MORTGAGE	107000.0	Not Verified	May-2013	Fully Paid	debt_consolidation	Debt Consolidation	25.64	Aug-2000	18.0	0.0	30651.0	68.4	31.0	w	JOINT	1.0	0.0	74547 Alan Stravenue Apt. 561\nNorth Rachel, FL 42713
+103	9500.0	36 months	10.99	313.99	B	B5	Engineering Technician	6 years	RENT	110000.0	Source Verified	Mar-2015	Current	credit_card	Credit Card Refinance	18.44	Mar-1999	11.0	0.0	26135.0	46.2	26.0	f	INDIVIDUAL	0.0	0.0	14992 Harisuko Knolls Apt. 824\nPort Kennethmouth, WI 91408
+104	13750.0	60 months	13.49	276.42	D	D3	Art Director	6 years	RENT	102000.0	Source Verified	Nov-2014	Current	debt_consolidation	Debt Consolidation	19.44	Jan-2005	19.0	0.0	34194.0	58.8	29.0	f	JOINT	0.0	0.0	"65508 Vega Creek Suite 482
+Corwinmouth, ME 02482"
+105	9000.0	36 months	10.98	275.88	C	C4	Software Engineer	3 years	RENT	84000.0	Not Verified	Dec-2016	Fully Paid	credit_card	Credit Card Refinance	13.12	Apr-2000	10.0	0.0	20276.0	64.3	24.0	w	INDIVIDUAL	0.0	0.0	"34921 Ferdinand Plain Apt. 933
+Kunzmouth, AL 16895"
+106	10800.0	36 months	12.21	325.32	B	B1	Graphic Designer	7 years	MORTGAGE	80000.0	Verified	Apr-2014	Current	home_improvement	Home Improvement	18.08	May-1994	16.0	0.0	24378.0	55.9	30.0	w	INDIVIDUAL	1.0	0.0	"3854 Downs Flats Apt. 687
+Eldridgborough, GA 01045"
+107	15750.0	60 months	14.48	325.66	C	C5	Sales Representative	4 years	RENT	94000.0	Source Verified	Mar-2017	Fully Paid	personal	Personal Loan	15.34	Jul-2006	14.0	0.0	39519.0	78.3	27.0	f	JOINT	0.0	0.0	"25802 Benson Circle Apt. 236
+Hillview, LA 16085"
+108	11250.0	36 months	11.85	349.15	B	B2	Business Analyst	8 years	MORTGAGE	130000.0	Verified	Jun-2015	Current	debt_consolidation	Debt Consolidation Loan	16.53	Sep-2003	20.0	0.0	26749.0	48.9	35.0	w	INDIVIDUAL	2.0	0.0	"91522 Potter Key Apt. 103
+Thompsonsberg, NV 03249"
+109	31500.0	60 months	13.49	662.29	D	D2	Chief Financial Officer	5 years	MORTGAGE	94000.0	Not Verified	Mar-2014	Fully Paid	debt_consolidation	Home Improvement Loan	28.42	Dec-1995	10.0	0.0	34879.0	65.2	37.0	w	INDIVIDUAL	2.0	0.0	"14420 Cory Glade
+North Brian, AK 11566"
+110	9035.0	36 months	11.55	291.28	C	C3	Engineer	7 years	RENT	103000.0	Verified	Feb-2013	Fully Paid	credit_card	Credit Card Consolidation	17.85	Aug-1987	14.0	0.0	37842.0	75.5	31.0	w	INDIVIDUAL	1.0	0.0	"517 Lake Glacier
+Roxbury, NY 06116"
+111	17250.0	36 months	10.19	515.84	B	B1	Doctor	10+ years	MORTGAGE	196000.0	Source Verified	Jan-2014	Fully Paid	other	Wedding	13.34	Apr-1984	18.0	0.0	23982.0	52.1	41.0	w	INDIVIDUAL	2.0	0.0	"49950 Westpass Lane Apt. 029
+Spencerberry, WY 02119"
+112	9600.0	36 months	17.54	331.15	D	D5	Vice President	8 years	RENT	14000.0	Verified	Jul-2013	Fully Paid	credit_card	Debt Consolidation	21.45	Feb-1993	9.0	0.0	11000.0	47.4	29.0	f	INDIVIDUAL	0.0	0.0	"59733 Darrel Way
+Marshallton, DE 19953"
+113	42500.0	60 months	13.83	964.69	D	D1	Pharmacist	9 years	MORTGAGE	133000.0	Not Verified	Jun-2014	Fully Paid	other	Business	18.68	May-1990	12.0	0.0	48686.0	64.3	38.0	f	INDIVIDUAL	3.0	0.0	"40972 Lawrence Street Apt. 162
+Highland Hills, NC 27264"
+114	18900.0	60 months	16.27	387.95	D	D3	Lifeguard	5 years	RENT	55000.0	Not Verified	Aug-2016	Current	credit_card	Credit Card Consolidation	23.81	Nov-2003	19.0	0.0	5268.0	73.4	30.0	w	INDIVIDUAL	0.0	0.0	1046 Dixie Meadow Apt. 715\nLake Leila, ME 23058
+115	5489.0	36 months	7.13	170.43	A	A1	Financial Manager	10+ years	OWN	175087.0	Verified	Jul-2020	Fully Paid	debt_consolidation	Personal Loan	3.9	Apr-1995	24.0	0.0	20874.0	23.5	43.0	f	JOINT	4.0	0.0	64501 Winnie Cove Apt. 373\nEast Feliciachester, CA 20817
+116	13325.0	36 months	12.84	429.38	C	C2	Food Scientist	3 years	RENT	58236.0	Not Verified	Feb-2018	Fully Paid	major_purchase	Boat Loan	25.3	Jun-1996	18.0	0.0	7122.0	36.4	30.0	w	INDIVIDUAL	0.0	0.0	910 Sterling Mountains Apt. 894\nEast Kareem, VA 01733
+117	15475.0	60 months	8.98	311.09	B	B5	Financial Analyst	8 years	MORTGAGE	90007.0	Source Verified	May-2017	Current	credit_card	Credit Card Consolidation	19.81	Aug-2006	16.0	0.0	19141.0	72.3	33.0	f	INDIVIDUAL	2.0	0.0	2212 Porter Brook Apt. 647\nBauchester, TX 64606
+118	11349.0	36 months	15.21	384.19	D	D2	Repair Manager	5 years	RENT	40618.0	Not Verified	Dec-2019	Current	car	Car Loan	23.16	Feb-2000	11.0	0.0	6192.0	82.3	24.0	w	INDIVIDUAL	0.0	0.0	9543 Farris Streets Apt. 264\nPort Curtis, IN 59829
+119	13800.0	36 months	15.65	417.11	D	D4	Sr. Account Manager	6 years	RENT	74228.0	Not Verified	Oct-2014	Fully Paid	debt_consolidation	Debt Consolidation	25.23	Feb-1995	20.0	0.0	17193.0	61.9	28.0	w	INDIVIDUAL	0.0	0.0	"94508 Alice Creek Suite 331
+West Steven, AK 99320"
+120	7000.0	36 months	13.67	221.86	C	C3	Medical Billing	9 years	RENT	59908.0	Not Verified	Jul-2015	Fully Paid	home_improvement	Home Improvement	22.65	Nov-1988	12.0	0.0	23342.0	55.2	25.0	f	INDIVIDUAL	0.0	0.0	"57269 Edward Cliffs Apt. 156
+Brownside, SD 58592"
+121	31000.0	60 months	17.86	774.59	E	E4	Training Manager	7 years	MORTGAGE	86476.0	Verified	Jun-2013	Charged Off	credit_card	Credit Card Refinance	26.73	Dec-1994	18.0	0.0	30990.0	60.8	43.0	f	INDIVIDUAL	2.0	0.0	"70840 Stephanie Park Apt. 956
+Port Shane, RI 02321"
+122	16000.0	36 months	15.34	467.93	D	D5	Purchasing	4 years	MORTGAGE	63706.0	Source Verified	Dec-2013	Fully Paid	other	Other	29.12	Apr-2002	14.0	0.0	25580.0	65.6	22.0	w	INDIVIDUAL	1.0	0.0	"53551 Maria Rest Apt. 695
+Lake Amanda, ND 50383"
+123	9200.0	36 months	14.23	269.51	C	C2	Facilities Director	5 years	RENT	55174.0	Not Verified	Mar-2014	Fully Paid	debt_consolidation	Debt Consolidation	24.47	Dec-1987	19.0	0.0	28143.0	50.3	32.0	f	INDIVIDUAL	0.0	0.0	"96748 Michael Shore Apt. 530
+Knumann, GA 46614"
+124	10325.0	36 months	9.67	292.17	B	B2	System Administrator	5 years	RENT	94200.0	Source Verified	Feb-2015	Fully Paid	debt_consolidation	Debt Consolidation Loan	18.93	Apr-2004	14.0	0.0	26688.0	41.4	26.0	f	INDIVIDUAL	0.0	0.0	5916 Sage Avenue Apt 123
+125	12250.0	60 months	15.49	326.43	C	C4	Electrical Engineer	8 years	MORTGAGE	62000.0	Verified	Jun-2012	Fully Paid	credit_card	Credit Card Consolidation	29.14	Feb-1998	16.0	0.0	31629.0	57.6	43.0	w	INDIVIDUAL	1.0	0.0	227 Rachel Lane Apt 56
+126	16300.0	36 months	10.64	477.45	B	B5	Data Analyst	7 years	RENT	74000.0	Not Verified	Dec-2013	Fully Paid	major_purchase	Home Improvement Loan	19.51	May-2002	15.0	0.0	26321.0	46.8	27.0	f	INDIVIDUAL	0.0	0.0	3463 Oak Street Apt 3
+127	9500.0	36 months	11.31	266.19	B	B3	Portfolio Manager	4 years	RENT	52000.0	Source Verified	Aug-2014	Fully Paid	credit_card	Credit Card Refinancing	16.62	Jul-2006	13.0	0.0	13490.0	56.8	24.0	f	INDIVIDUAL	0.0	0.0	1577 Pearl Road Apt 103
+128	20250.0	60 months	16.46	468.85	C	C2	Sales Manager	10+ years	MORTGAGE	72000.0	Verified	Jan-2014	Fully Paid	debt_consolidation	Debt Consolidation	24.46	Oct-1997	18.0	0.0	33341.0	50.3	42.0	w	INDIVIDUAL	1.0	0.0	1832 Cary Street Apt 2
+129	15300.0	60 months	16.74	334.35	C	C3	Database Administrator	6 years	RENT	52000.0	Source Verified	Nov-2014	Current	debt_consolidation	Debt Consolidation Loan	24.41	May-2003	12.0	0.0	21679.0	79.3	30.0	w	INDIVIDUAL	0.0	0.0	"246 Andrew Road
+Moodyville, UT 85423"
+130	28600.0	36 months	10.64	902.04	B	B2	Supply Chain Manager	10+ years	MORTGAGE	62000.0	Not Verified	Nov-2013	Fully Paid	other	Furniture for Business	12.06	Aug-1996	20.0	0.0	25344.0	65.6	35.0	f	INDIVIDUAL	1.0	0.0	"035 Rodney Street Apt. 859
+Lake Ariana, MI 39153"
+131	20500.0	36 months	15.54	630.63	C	C1	Tool and Die Maker	5 years	RENT	45000.0	Not Verified	Jan-2015	Current	debt_consolidation	Consolidate Credit Card Debt	29.47	Nov-1998	11.0	0.0	25647.0	94.9	29.0	f	INDIVIDUAL	0.0	0.0	"17611 Maxwell Cape Apt. 539
+New Ryan, LA 11567"
+132	24000.0	60 months	14.47	481.81	C	C2	Financial Analyst	7 years	RENT	65000.0	Verified	Oct-2013	Current	wedding	Wedding	25.83	Feb-2009	19.0	0.0	33158.0	73.1	28.0	w	INDIVIDUAL	0.0	0.0	"765 Natalie River
+Port Toddside, PA 75669"
+133	26000.0	36 months	12.35	791.29	B	B1	Construction Supervisor	8 years	MORTGAGE	76000.0	Source Verified	Dec-2014	Fully Paid	credit_card	Credit Card Consolidation	16.03	Apr-1991	22.0	0.0	31973.0	63.2	32.0	w	INDIVIDUAL	1.0	0.0	"956 Kristopher Rapid Apt. 581
+Reedville, NH 15644"
+134	13750.0	60 months	13.49	319.57	D	D3	Social Media Manager	5 years	RENT	82000.0	Not Verified	Jun-2014	Fully Paid	debt_consolidation	Consolidating Credit Card Debt	21.41	Oct-2005	18.0	0.0	26842.0	55.2	30.0	w	INDIVIDUAL	0.0	0.0	"45221 Harry Corners Apt. 182
+Port Veronicatown, CO 35601"
+135	20000.0	36 months	14.86	618.96	C	C2	Data Analyst	6 years	MORTGAGE	92000.0	Source Verified	Aug-2015	Fully Paid	credit_card	Credit Card Payoff	18.62	Mar-2009	19.0	0.0	24143.0	73.4	32.0	f	INDIVIDUAL	2.0	0.0	"83336 Ryan Courts Apt. 337
+New Kathrynville, OH 12382"
+136	31500.0	60 months	16.17	647.38	E	E4	Customer Service Representative	3 years	RENT	65000.0	Verified	Nov-2013	Fully Paid	home_improvement	Home Improvement Loan	33.83	Jun-2006	14.0	0.0	19592.0	67.9	38.0	w	INDIVIDUAL	0.0	0.0	"42035 Rachel Wall Apt. 417
+North Ethanville, IL 54137"
+137	14400.0	36 months	12.66	426.59	A	A3	Accountant	7 years	MORTGAGE	103000.0	Not Verified	May-2012	Fully Paid	debt_consolidation	Consolidating Credit Card Debt	16.93	Jul-1994	20.0	0.0	35521.0	51.2	35.0	f	INDIVIDUAL	1.0	0.0	"10322 Jessica Circus Apt. 184
+New Stephen, MT 62321"
+138	22000.0	60 months	15.45	492.75	C	C4	Software Engineer	8 years	RENT	84000.0	Source Verified	Oct-2015	Fully Paid	other	Other	19.25	Feb-2007	16.0	0.0	29456.0	59.3	29.0	w	INDIVIDUAL	0.0	0.0	"89371 Amy Points
+Port Andrewside, GA 45432"
+139	9750.0	36 months	15.85	309.92	E	E3	Fitness Instructor	5 years	RENT	61000.0	Source Verified	Oct-2018	Fully Paid	credit_card	Credit Card Consolidation	20.64	Apr-2008	15.0	0.0	47219.0	83.4	31.0	w	INDIVIDUAL	0.0	0.0	65549 Meredith Dr Apt. 723\nLake Nicole, IL 03243
+140	20100.0	60 months	15.67	474.31	D	D5	Assistant Manager	8 years	RENT	58000.0	Verified	Jun-2019	Fully Paid	debt_consolidation	Debt Consolidation	29.35	Dec-2007	11.0	0.0	30817.0	81.6	25.0	f	INDIVIDUAL	0.0	0.0	"49744 Kenyon Mews Apt. 449
+North Daniellefort, SD 06136"
+141	16300.0	60 months	15.67	351.93	D	D2	Owner	4 years	OWN	82000.0	Not Verified	Dec-2015	Fully Paid	small_business	Business Expansion	25.69	Nov-1995	18.0	0.0	37383.0	84.5	34.0	f	INDIVIDUAL	2.0	0.0	"23298 Oscar Extension Apt. 736
+New Nathanielton, MT 29450"
+142	8250.0	36 months	10.85	283.42	C	C2	Biologist	3 years	RENT	105000.0	Source Verified	Oct-2018	Fully Paid	credit_card	Credit Card Consolidation	15.34	Apr-2008	15.0	0.0	7132.0	56.9	30.0	w	INDIVIDUAL	0.0	0.0	"54032 Swift Court
+Hackettshire, MT 05812"
+143	26500.0	60 months	12.67	481.95	C	C2	Construction Manager	8 years	MORTGAGE	100000.0	Verified	Jul-2015	Fully Paid	home_improvement	Home Improvement	27.41	Dec-2003	12.0	0.0	32149.0	85.4	29.0	f	INDIVIDUAL	2.0	0.0	450 River View
+144	9000.0	36 months	15.85	304.45	E	E3	Accountant	5 years	RENT	53000.0	Not Verified	Jan-2020	Fully Paid	credit_card	Credit Card Refinancing	20.59	Jun-2009	11.0	0.0	16770.0	56.8	19.0	w	INDIVIDUAL	0.0	0.0	1176 Herman Center Apt. 867
+145	14250.0	36 months	11.21	414.42	B	B2	Manager	6 years	MORTGAGE	87000.0	Source Verified	Apr-2012	Fully Paid	debt_consolidation	Debt Consolidation	24.53	Oct-1997	14.0	0.0	26037.0	84.3	32.0	f	INDIVIDUAL	2.0	0.0	9603 Lisa Street Apt. 649
+146	21000.0	60 months	13.61	465.19	C	C3	Quantity Surveyor	8 years	RENT	82000.0	Not Verified	Sep-2016	Fully Paid	car	Car Loan	22.93	May-1991	15.0	0.0	35190.0	81.1	25.0	w	INDIVIDUAL	0.0	0.0	7408 Mark Highway Apt. 408
+147	17425.0	36 months	10.95	485.31	B	B1	Finance Manager	10+ years	OWN	75000.0	Verified	Mar-2011	Fully Paid	personal	Personal Loan	25.69	Jun-2006	10.0	0.0	28340.0	76.8	27.0	f	INDIVIDUAL	1.0	0.0	4082 Cunningham Port Apt. 314
+148	22125.0	60 months	19.35	485.38	E	E3	Flight Attendant	8 years	RENT	45000.0	Not Verified	Sep-2019	Fully Paid	debt_consolidation	Credit Card Payoff	25.53	Apr-2004	12.0	0.0	18617.0	93.2	20.0	f	INDIVIDUAL	0.0	0.0	"0086 Adam Vista Apt. 441
+West Kimberly, WI 43848"
+149	10725.0	36 months	11.23	319.95	B	B2	Math Teacher	4 years	MORTGAGE	50000.0	Verified	Jun-2017	Fully Paid	personal	Consolidating Credit Card Debt	15.76	Oct-2001	9.0	0.0	15968.0	96.2	31.0	w	INDIVIDUAL	2.0	0.0	"97030 Reed Divide Apt. 609
+Port Timothy, DE 37129"
+150	17750.0	60 months	15.73	421.36	C	C3	Bailiff	3 years	RENT	100000.0	Not Verified	Dec-2016	Fully Paid	credit_card	Credit Card Consolidation	20.59	Jan-2002	14.0	0.0	29480.0	79.6	36.0	f	INDIVIDUAL	1.0	0.0	"77562 Julius Fields Apt. 230
+Stevensmouth, FL 51409"
+151	13525.0	36 months	18.47	434.51	E	E5	Recruiting Manager	7 years	OWN	90000.0	Verified	Jul-2015	Fully Paid	car	Car Replacement	23.26	Feb-2006	18.0	0.0	20545.0	81.6	44.0	f	INDIVIDUAL	1.0	0.0	"64900 Norman Freeway Apt. 114
+New Rachel, MO 36990"
+152	8250.0	36 months	13.99	249.59	D	D1	Bookkeeper	5 years	RENT	82000.0	Verified	Jun-2017	Fully Paid	debt_consolidation	Debt Consolidation Loan	25.42	Apr-2003	8.0	0.0	23292.0	89.5	24.0	f	INDIVIDUAL	0.0	0.0	"322 Anthony Knolls Apt. 281
+East Janice, CA 14033"
+153	19425.0	36 months	14.25	571.99	C	C1	Finance Analyst	6 years	MORTGAGE	60000.0	Source Verified	Feb-2014	Fully Paid	home_improvement	Home Improvement Loan	29.58	Oct-2004	11.0	0.0	23216.0	93.9	32.0	w	INDIVIDUAL	2.0	0.0	"6785 Michael Field Apt. 513
+Newwaterbury, CT 94251"
+154	14750.0	60 months	11.31	362.91	B	B2	Engineering Manager	8 years	MORTGAGE	135000.0	Not Verified	Sep-2014	Fully Paid	credit_card	Credit Card Consolidation	24.27	Dec-2001	12.0	0.0	41681.0	53.8	41.0	w	INDIVIDUAL	2.0	0.0	"42649 Perry Hills Apt. 667
+Port Anthony, MI 25573"
+155	24000.0	60 months	14.51	584.32	C	C3	Attorney	7 years	MORTGAGE	82000.0	Verified	Jul-2018	Fully Paid	home_improvement	Home Improvement Loan	30.61	Sep-2002	14.0	0.0	27761.0	86.4	39.0	f	INDIVIDUAL	1.0	0.0	"125 Marissa Creek Apt. 235
+East Steven, GA 24420"
+156	11000.0	36 months	17.24	334.86	E	E3	Nurse Practitioner	< 1 year	RENT	83000.0	Not Verified	Nov-2015	Fully Paid	car	Auto Refinance	27.82	Feb-2004	11.0	0.0	19654.0	68.5	34.0	w	INDIVIDUAL	0.0	0.0	"4773 Karen Drive Apt. 115
+New Samuel, OR 77834"
+157	12750.0	36 months	12.62	375.83	C	C2	Software Engineer	9 years	MORTGAGE	90000.0	Source Verified	Oct-2016	Fully Paid	personal	Personal Loan	20.93	Nov-1997	13.0	0.0	38521.0	76.9	32.0	f	INDIVIDUAL	1.0	0.0	"18931 Herbert Pines Apt. 783
+West Emilyville, NJ 45508"
+158	6500.0	36 months	19.23	205.38	E	E3	Fitness Instructor	5 years	RENT	35000.0	Not Verified	Mar-2018	Fully Paid	debt_consolidation	Debt Consolidation	29.44	Nov-2009	12.0	0.0	17210.0	69.9	24.0	f	INDIVIDUAL	0.0	0.0	"982 Elizabeth Road Apt. 701
+New Hope, MS 38637"
+159	9841.0	60 months	18.32	237.56	D	D3	Nurse	7 years	MORTGAGE	120000.0	Verified	Apr-2019	Fully Paid	car	Car Loan	27.68	Aug-2007	9.0	0.0	21888.0	57.8	30.0	w	INDIVIDUAL	1.0	0.0	"4296 Agatha Street Apt. 534
+East Craig, DE 19957"
+160	19700.0	60 months	13.89	441.86	B	B1	Manager	10+ years	OWN	75000.0	Not Verified	Jun-2012	Fully Paid	credit_card	Credit Card Consolidation	23.67	Apr-1996	18.0	0.0	31294.0	75.3	32.0	f	INDIVIDUAL	2.0	0.0	"204 Richard Extension Apt. 864
+Rockville, AL 35121"
+161	8700.0	36 months	18.41	295.95	E	E4	CEO	6 years	RENT	63000.0	Source Verified	Oct-2016	Fully Paid	home_improvement	Home Improvement	20.85	Feb-2008	14.0	0.0	25545.0	82.1	27.0	f	INDIVIDUAL	0.0	0.0	"49291 Rios Port Apt. 452
+Christiansenmouth, WY 82735"
+162	19500.0	60 months	16.18	448.42	C	C2	Financial Analyst	4 years	MORTGAGE	50000.0	Not Verified	Jun-2014	Fully Paid	other	Other	31.89	May-2003	16.0	0.0	27175.0	63.1	33.0	w	INDIVIDUAL	1.0	0.0	"941 Andrew Highway Apt. 949
+Smithmouth, MT 59143"
+163	16375.0	60 months	15.99	341.29	C	C2	Database Administrator	8 years	MORTGAGE	87000.0	Verified	Jul-2015	Fully Paid	debt_consolidation	Debt Consolidation	25.85	Nov-2008	12.0	0.0	28658.0	66.3	24.0	f	INDIVIDUAL	2.0	0.0	"60018 Elvia Valley
+Port Kyle, UT 25791"
+164	15000.0	36 months	13.99	396.39	B	B3	Management Consultant	5 years	RENT	91000.0	Source Verified	Apr-2014	Fully Paid	credit_card	Credit Card Consolidation	22.19	Sep-2010	15.0	0.0	44853.0	84.2	32.0	f	INDIVIDUAL	1.0	0.0	"43141 Ginny Street Apt. 679
+East Tammytown, MT 24369"
+165	22500.0	60 months	16.99	534.42	C	C3	Sales Representative	7 years	MORTGAGE	71000.0	Not Verified	Mar-2018	Fully Paid	home_improvement	Home Improvement	31.49	Feb-2002	9.0	0.0	19844.0	59.8	20.0	f	INDIVIDUAL	2.0	0.0	"18229 Edwards Crossing
+South Jonathan, ND 96663"
+166	12375.0	36 months	10.49	381.46	A	A4	Data Analyst	6 years	RENT	138000.0	Verified	Aug-2017	Fully Paid	credit_card	Credit Card Consolidation	14.19	May-2001	16.0	0.0	32536.0	43.8	28.0	w	INDIVIDUAL	1.0	0.0	"63420 Tammie Falls Apt. 629
+Port Robertabury, NM 85375"
+167	19375.0	60 months	14.99	394.73	B	B2	Security Specialist	10+ years	MORTGAGE	83000.0	Not Verified	Oct-2016	Fully Paid	debt_consolidation	Debt Consolidation	24.85	Nov-1997	11.0	0.0	24680.0	71.9	23.0	f	INDIVIDUAL	2.0	0.0	"95888 Rodriguez Forge Apt. 353
+New Suzette, GA 58914"
+168	22125.0	60 months	19.23	485.15	E	E3	Public Relations	5 years	RENT	46000.0	Source Verified	Nov-2017	Fully Paid	debt_consolidation	Debt Consolidation	29.18	Apr-2008	15.0	0.0	29625.0	93.4	32.0	f	INDIVIDUAL	0.0	0.0	"813 William Brooks Apt. 898
+North Bryan, GA 33866"
+169	27850.0	60 months	10.96	597.48	B	B1	Research Scientist	10+ years	MORTGAGE	143000.0	Not Verified	Aug-2018	Fully Paid	car	Auto Refinance	18.73	Aug-2002	10.0	0.0	47227.0	63.2	40.0	w	INDIVIDUAL	3.0	0.0	"5243 Karen Point Apt. 197
+Lake Timothymouth, UT 07547"
+170	15475.0	36 months	12.73	450.56	B	B4	Medical Technician	2 years	RENT	32000.0	Verified	Oct-2014	Fully Paid	personal	Personal Loan	25.05	Mar-1994	11.0	0.0	14387.0	51.1	24.0	w	INDIVIDUAL	0.0	0.0	"4611 Locke Glens Apt. 546
+Lake Carolyn, GA 10295"
+171	19975.0	60 months	21.07	555.97	D	D4	Truck Driver	7 years	RENT	76000.0	Not Verified	Jan-2016	Fully Paid	credit_card	Credit Card Consolidation	24.58	Oct-2007	18.0	0.0	30542.0	69.9	33.0	f	INDIVIDUAL	0.0	0.0	"9797 Kyle Cove Apt. 689
+Winfredview, SC 42155"
+172	10125.0	36 months	13.15	301.14	B	B3	Architect	5 years	RENT	112000.0	Source Verified	Nov-2017	Fully Paid	credit_card	Credit Card Consolidation	23.44	Apr-2003	15.0	0.0	53821.0	76.3	29.0	w	INDIVIDUAL	0.0	0.0	"54467 Clarence Lake Apt. 334
+East Daniel, MT 29670"
+173	14025.0	36 months	15.97	393.59	C	C2	CFO	4 years	OWN	106000.0	Source Verified	Mar-2019	Fully Paid	other	Other	26.53	Feb-2009	19.0	0.0	19998.0	71.9	30.0	w	INDIVIDUAL	1.0	0.0	"6023 Jennifer Wells Apt. 204
+Johnstonside, RI 41059"
+174	13050.0	60 months	14.64	354.83	C	C3	Data Scientist	7 years	MORTGAGE	74000.0	Verified	Mar-2020	Fully Paid	debt_consolidation	Debt Consolidation	19.26	Aug-2008	14.0	0.0	23386.0	66.7	25.0	w	INDIVIDUAL	3.0	0.0	"47582 Diana Mountains Apt. 476
+Johnstown, KY 10845"
+175	16075.0	36 months	16.17	491.58	C	C5	IT Manager	10+ years	OWN	61000.0	Not Verified	Feb-2019	Fully Paid	credit_card	Credit Card Refinancing	23.85	Jun-2009	20.0	0.0	39143.0	83.2	35.0	w	INDIVIDUAL	1.0	0.0	"41638 Shirley Summit Apt. 240
+West Chernandez, GA 24376"
+176	21450.0	60 months	18.66	556.23	D	D2	Sales Manager	8 years	MORTGAGE	92000.0	Not Verified	Jan-2018	Fully Paid	car	Car Loan	26.46	Oct-2006	12.0	0.0	30516.0	72.6	27.0	f	INDIVIDUAL	2.0	0.0	"53215 Justin Fountains Apt. 417
+Lake Kyle, OR 37424"
+177	10425.0	36 months	12.42	298.19	B	B4	Lawyer	6 years	RENT	85000.0	Source Verified	Aug-2017	Fully Paid	credit_card	Credit Card Payoff	21.98	Sep-2011	18.0	0.0	25581.0	64.4	33.0	w	INDIVIDUAL	0.0	0.0	"49820 Mike Stream Apt. 566
+Brownstown, ME 49976"
+178	9300.0	36 months	19.11	288.38	E	E5	Professor	7 years	OWN	84000.0	Not Verified	Jun-2017	Fully Paid	credit_card	Credit Card Consolidation	25.49	Oct-2002	15.0	0.0	31891.0	82.2	33.0	w	INDIVIDUAL	2.0	0.0	"56592 Green Plains
+Bradshawville, WY 27373"
+179	17000.0	60 months	14.65	396.24	C	C3	Sales Manager	10+ years	MORTGAGE	114000.0	Verified	Dec-2014	Fully Paid	car	Car Loan	20.62	Feb-2001	11.0	0.0	65120.0	93.5	41.0	w	INDIVIDUAL	3.0	0.0	"70953 Bernard Drives Apt. 318
+Bairdstad, TX 15176"
+180	12000.0	36 months	18.93	365.17	D	D3	Teacher	6 years	RENT	76000.0	Source Verified	Aug-2018	Fully Paid	personal	Personal Loan	28.93	Jan-2008	16.0	0.0	30409.0	71.5	29.0	f	INDIVIDUAL	0.0	0.0	"72193 Victoria Place Apt. 114
+Yeagerville, WI 56285"
+181	21625.0	60 months	16.87	539.66	C	C1	Auto Mechanic	9 years	MORTGAGE	91000.0	Not Verified	May-2015	Fully Paid	home_improvement	Home Improvement Loan	32.49	May-2003	12.0	0.0	52145.0	76.4	30.0	f	INDIVIDUAL	2.0	0.0	"11042 Monica Circles Apt. 231
+East Zachary, AL 31571"
+182	14250.0	36 months	12.93	413.79	B	B2	Nurse	5 years	RENT	49000.0	Verified	Oct-2019	Fully Paid	credit_card	Credit Card Consolidation	18.38	Aug-2011	14.0	0.0	21775.0	58.8	25.0	w	INDIVIDUAL	0.0	0.0	"94104 Amy Roads Apt. 348
+Walkerstad, KS 11127"
+183	12400.0	36 months	13.99	354.42	D	D5	Safety Inspector	8 years	RENT	89000.0	Verified	Jun-2019	Fully Paid	debt_consolidation	Debt Consolidation Loan	20.29	Nov-2003	14.0	0.0	31089.0	62.4	29.0	f	INDIVIDUAL	0.0	0.0	"14004 Wilson Hill Apt. 451
+East Paul, CO 38916"
+184	20750.0	60 months	14.65	475.39	C	C3	Clerical	3 years	MORTGAGE	64000.0	Not Verified	Dec-2016	Fully Paid	credit_card	Credit Card Consolidation	30.28	May-2009	11.0	0.0	20148.0	52.3	22.0	w	INDIVIDUAL	2.0	0.0	"0158 Craig Lake Apt. 729
+Port Keith, ME 44243"
+185	14625.0	36 months	19.59	414.13	E	E1	Real Estate	7 years	RENT	71000.0	Source Verified	Oct-2017	Fully Paid	major_purchase	Major Purchase	14.44	Jun-2001	15.0	0.0	25149.0	83.9	31.0	f	INDIVIDUAL	1.0	0.0	"95756 Barbara Glen Apt. 430
+East Matthewport, HI 28151"
+186	18375.0	60 months	11.88	422.27	B	B3	Analyst	6 years	MORTGAGE	82000.0	Not Verified	Aug-2015	Fully Paid	other	Other	23.29	Jul-2008	12.0	0.0	39858.0	85.2	28.0	w	INDIVIDUAL	2.0	0.0	"40895 Kevin Divide Apt. 142
+North Sarahton, WI 42487"
+187	10500.0	36 months	16.22	333.78	D	D2	Market	5 years	RENT	53000.0	Verified	Mar-2020	Fully Paid	credit_card	Credit Card Payoff	26.42	Aug-2003	16.0	0.0	26182.0	54.7	24.0	w	INDIVIDUAL	1.0	0.0	"98369 Reyes Streets Apt. 489
+West Kathleenmouth, MI 28991"
+188	19475.0	60 months	18.27	455.59	C	C2	Biologist	8 years	MORTGAGE	45000.0	Not Verified	Nov-2017	Fully Paid	home_improvement	Home Improvement	23.59	Sep-2009	14.0	0.0	31253.0	76.4	28.0	f	INDIVIDUAL	2.0	0.0	"31842 Hayden Road Apt. 713
+West James, GA 23529"
+189	6150.0	36 months	19.93	220.23	E	E3	Laboratory Assistant	5 years	RENT	31500.0	Not Verified	Feb-2019	Fully Paid	debt_consolidation	Debt Consolidation	26.05	Dec-2008	11.0	0.0	17628.0	52.4	25.0	w	INDIVIDUAL	0.0	0.0	"31001 Knight Way Apt. 940
+East Lauren, NJ 24222"
+190	15375.0	60 months	13.19	357.37	B	B4	Physical Therapy Assistant	4 years	MORTGAGE	40000.0	Verified	Sep-2016	Fully Paid	credit_card	Credit Card Refinance	18.13	Jul-2001	15.0	0.0	37548.0	78.1	34.0	f	INDIVIDUAL	1.0	0.0	"327 Pugh Place Apt. 435
+South Lisa, CA 27988"
+191	11125.0	36 months	10.32	326.16	A	A3	Mathematician	3 years	RENT	48000.0	Source Verified	Aug-2015	Fully Paid	personal	Personal Loan	14.38	Oct-2005	10.0	0.0	22367.0	64.5	19.0	w	INDIVIDUAL	0.0	0.0	"56267 Hamilton Stream Apt. 594
+Lake Susan, OR 41936"
+192	18000.0	60 months	16.35	440.39	C	C1	Telemarketing	9 years	MORTGAGE	65000.0	Not Verified	Mar-2014	Fully Paid	car	New Car	30.67	Jan-2001	13.0	0.0	29882.0	85.4	30.0	f	INDIVIDUAL	2.0	0.0	"11861 Bradley Common Apt. 280
+Greenberg, RI 12380"
+193	5000.0	36 months	15.95	165.47	E	E1	Computer Systems Analyst	3 years	RENT	42000.0	Not Verified	Dec-2012	Fully Paid	other	Furniture for Business	25.32	Nov-2003	7.0	0.0	4119.0	23.1	14.0	w	INDIVIDUAL	0.0	0.0	85082 Cordova Land Apt. 604\r\nPort Nicholas, ME 68913
+194	11200.0	60 months	14.41	251.45	C	C3	Registered Nurse	5 years	MORTGAGE	60000.0	Source Verified	Jun-2018	Fully Paid	debt_consolidation	Debt Consolidation	17.74	Aug-2006	11.0	0.0	19045.0	50.2	24.0	f	INDIVIDUAL	2.0	0.0	25630 Danielle Place Apt. 377\r\nWest Kyle, DE 67789
+195	18500.0	36 months	12.99	585.17	B	B2	Business Development Manager	10+ years	RENT	105000.0	Not Verified	Oct-2011	Fully Paid	business	Business Expansion	24.47	May-2003	14.0	0.0	25669.0	54.3	29.0	w	INDIVIDUAL	0.0	0.0	90434 Price Station Apt. 897\r\nEast Kevin, SD 28267
+196	16875.0	60 months	13.71	362.26	C	C1	Science Teacher	7 years	MORTGAGE	70000.0	Verified	Aug-2017	Fully Paid	home_improvement	Home Improvement	20.56	Apr-2009	13.0	0.0	22146.0	63.9	31.0	f	INDIVIDUAL	2.0	0.0	42782 Pearson Overpass Apt. 172\r\nPort Adeline, VT 14075
+197	10500.0	36 months	20.95	354.36	E	E3	Customer Service Representative	< 1 year	RENT	38000.0	Source Verified	Nov-2014	Fully Paid	credit_card	Credit Card Payoff	23.24	Feb-2008	12.0	0.0	13639.0	46.5	23.0	w	INDIVIDUAL	0.0	0.0	17529 Gutierrez Port Apt. 200\r\nWest Steven, GA 03585
